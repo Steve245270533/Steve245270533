@@ -1,5 +1,3 @@
-![](assets/Bottom_up.svg)
-
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="http://csyedu.top"><img src="./assets/head_logo.jpg" align="right" height="48" width="48" ></a>
@@ -18,9 +16,13 @@
 <!--   GitHub stats graph -->
 
 ### 📈 GitHub Activity Graph:
-| .                                                            | .                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Steve's github stats](https://github-readme-stats.vercel.app/api?username=Steve245270533&show_icons=true&theme=radical&include_all_commits=true) | ![Steve's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Steve245270533&theme=radical&layout=compact) |
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Steve245270533&show_icons=true&theme=radical" />
+</span>
+
+<span>
+  <img height="195" align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steve245270533&theme=radical&layout=compact" />
+</span>
 
 
 
