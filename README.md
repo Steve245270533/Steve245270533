@@ -34,6 +34,7 @@
 
 <a href="https://gitee.com/Guisper" title="Guisper" target="_blank"><img align="left" style="width:75px; height: 75px; border-radius: 50%;margin: 10px;" hei src="./assets/img/donate/Guisper.jpeg" /></a>
 <a href="#" target="_blank" title="Nivere"><img align="left" style="width:75px; height: 75px; border-radius: 50%;margin:10px;" hei src="./assets/img/donate/Nivere.jpeg" /></a>
+<a href="https://github.com/ArcherGu" target="_blank" title="ArcherGu"><img align="left" style="width:75px; height: 75px; border-radius: 50%;margin:10px;" hei src="./assets/img/donate/ArcherGu.jpg" /></a>
 
 
 
