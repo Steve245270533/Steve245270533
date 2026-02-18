@@ -8,7 +8,9 @@
 <!--   my-skils -->
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/javascript/javascript.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/typescript/typescript.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/nodejs/nodejs.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/vue/vue.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/nestjs/nestjs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/javascript/javascript.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/typescript/typescript.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/nodejs/nodejs.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/vue/vue.png"></code> | 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/react/react.png"></code> | 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/67774fb70e6406d07996d8aa3c5a15ae4dbf2fc1/topics/nestjs/nestjs.png"></code> 
 
 <!--   GitHub stats graph -->
 
